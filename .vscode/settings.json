@@ -1,0 +1,5 @@
+{
+  "jupyter.notebookFileRoot": "${fileDirname}",
+  "notebook.output.scrolling": true,
+  "python.defaultInterpreterPath": "${workspaceFolder}\\.venv\\Scripts\\python.exe"
+}

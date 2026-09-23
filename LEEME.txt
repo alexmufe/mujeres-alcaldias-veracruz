@@ -1,0 +1,19 @@
+ANEXO METODOLÓGICO - Candidaturas de mujeres a las alcaldías de Veracruz, 2025
+
+Contenido de esta carpeta
+  Anexo_metodologico_Veracruz_2025.ipynb   Cuaderno con el análisis (código y resultados).
+  Anexo_metodologico_Veracruz_2025.html    El mismo cuaderno, ya ejecutado, para verlo en cualquier navegador.
+  candidaturas_veracruz_2025.csv           1,108 candidaturas a presidencia municipal (sin nombres).
+  municipios_carencias_censo2020.csv       Carencias del Censo 2020 por municipio.
+  integracion_2021_2025.csv                Sexo de quienes ocupan presidencias, sindicaturas, regidurías y diputaciones.
+  requirements.txt                         Librerías de Python que usa el cuaderno.
+
+Para abrirlo en VS Code
+  1. En VS Code: File > Open Folder... y elegir esta carpeta.
+  2. Abrir Anexo_metodologico_Veracruz_2025.ipynb.
+  3. Pulsar "Run All". La primera vez VS Code pide elegir un Python ("Select Kernel")
+     y puede ofrecer instalar ipykernel: aceptar. El propio cuaderno instala lo que falte.
+
+Requisitos (una sola vez en la computadora)
+  - Python 3 (python.org; al instalar, marcar "Add Python to PATH").
+  - Extensiones "Python" y "Jupyter" de Microsoft en VS Code.
