@@ -21,5 +21,9 @@ Las comparaciones describen diferencias observadas y no identifican por sí sola
 ## Código
 
 [Notebook](Anexo_metodologico_Veracruz_2025.ipynb)
+
 Los datos están incluidos; el notebook corre con las dependencias fijadas en `requirements.txt`.
-`python -m nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=1800 Anexo_metodologico_Veracruz_2025.ipynb`
+
+```bash
+python -m nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=1800 Anexo_metodologico_Veracruz_2025.ipynb
+```
