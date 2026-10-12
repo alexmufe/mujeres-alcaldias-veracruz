@@ -22,9 +22,15 @@ Al comparar solo candidaturas de la misma elección municipal (misma boleta, mis
 
 Entre las candidatas que nunca ocuparon un cargo público, la brecha respecto de los hombres es de 21 puntos; entre quienes sí, de 12. Por el lado de la educación, sin licenciatura es de 24 puntos, y con licenciatura, de 14 (gráfica 1, panel B). Ambas diferencias se mantienen independientemente del tamaño del municipio. Al estimar por género, haber ocupado un cargo público previo suma cerca de siete puntos a una candidata y no tiene efecto medible en un candidato. Por lo que **la experiencia en un cargo público pesa más para las candidatas**, pues acerca sus votos a los de un candidato.
 
-![Gráfica 1A. Porcentaje de mujeres por rubro, Veracruz 2025](figuras/grafica_1A_participacion.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="figuras/grafica_1A_participacion_dark.png">
+  <img alt="Gráfica 1A. Porcentaje de mujeres por rubro, Veracruz 2025" src="figuras/grafica_1A_participacion.png">
+</picture>
 
-![Gráfica 1B. Desventaja de las candidatas frente a los candidatos de su municipio](figuras/grafica_1B_brechas.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="figuras/grafica_1B_brechas_dark.png">
+  <img alt="Gráfica 1B. Desventaja de las candidatas frente a los candidatos de su municipio" src="figuras/grafica_1B_brechas.png">
+</picture>
 
 Nota: las líneas al final de cada barra del panel B son intervalos de confianza de 95 por ciento; todas las brechas son estadísticamente significativas. Rangos de población con los cortes que INEGI usa para localidades. Fuente: elaboración propia con datos del INE y del OPLE Veracruz.
 
@@ -38,7 +44,10 @@ Las mujeres son 58% de todas las candidaturas, sumando todos los partidos, en lo
 
 Los partidos también postulan más mujeres en los municipios donde son más débiles. Para cada partido, se ordenaron los municipios según el porcentaje de votos que obtuvo en 2021 (hubiera ganado o no) y se dividieron en tres grupos iguales: fuerza débil, media y fuerte. Las mujeres fueron 55 por ciento de sus candidaturas donde el partido era más débil, 51 por ciento en fuerza media y 46 por ciento donde era más fuerte (gráfica 2, panel A). Sin embargo, esa colocación no alcanza para explicar la brecha: aun donde su partido era fuerte, solo 19 de cada 100 candidatas ganaron, contra 37 de cada 100 candidatos (gráfica 2, panel B).
 
-![Gráfica 2. Candidaturas y triunfos por sexo y fuerza del partido](figuras/grafica_2_fuerza_partido.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="figuras/grafica_2_fuerza_partido_dark.png">
+  <img alt="Gráfica 2. Candidaturas y triunfos por sexo y fuerza del partido" src="figuras/grafica_2_fuerza_partido.png">
+</picture>
 
 Nota: la fuerza de cada partido es relativa a sus propios resultados: para cada partido, los municipios se dividen en tercios según el porcentaje de votos que obtuvo ahí en 2021. Por ejemplo, un municipio "fuerte" para Morena-PVEM es donde obtuvo más de 40 por ciento; para el PT, más de 3 por ciento. Es una aproximación a los bloques de competitividad del OPLE. Fuente: elaboración propia con datos del INE y del OPLE Veracruz.
 

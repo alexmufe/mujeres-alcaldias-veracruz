@@ -6,7 +6,10 @@
 
 En 2025, las mujeres ganaron 54 de las 212 presidencias municipales. La brecha promedio fue de 18 puntos frente a candidatos de la misma elección y partido y de 16 puntos al comparar perfiles equivalentes; también varía según experiencia, escolaridad y tamaño del municipio.
 
-![Gráfica 1B. Desventaja de las candidatas frente a los candidatos de su municipio](docs/figuras/grafica_1B_brechas.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/figuras/grafica_1B_brechas_dark.png">
+  <img alt="Gráfica 1B. Desventaja de las candidatas frente a los candidatos de su municipio" src="docs/figuras/grafica_1B_brechas.png">
+</picture>
 
 [Documento completo](docs/Mujeres_alcaldias_Veracruz_AlejandroMunoz.md)
 
